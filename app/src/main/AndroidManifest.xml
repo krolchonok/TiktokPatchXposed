@@ -11,7 +11,7 @@
             android:value="true" />
         <meta-data
             android:name="xposeddescription"
-            android:value="Test" />
+            android:value="Patcher for TikTok" />
         <meta-data
             android:name="xposedminversion"
             android:value="72" />
