@@ -16,6 +16,10 @@ TiktokPatchXposed — это модуль для Tiktok для обхода ог
 - Использование модулей Xposed может привести к блокировке аккаунта или нестабильной работе приложения.
 - Все изменения вы делаете на свой страх и риск.
 
+## Скачать 
+
+[Последняя версия](https://github.com/krolchonok/TiktokPatchXposed/releases/download/v2025.08.24-073559/app-release-universal.apk)
+
 ## Обратная связь
 
 - Автор: [krolchonok](https://github.com/krolchonok)
