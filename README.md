@@ -1,26 +1,41 @@
 # TiktokPatchXposed
 
-TiktokPatchXposed — это модуль для Tiktok для обхода ограничений.
+<div align="center">
 
-## Возможности
-- Изменение региона для доступа к видео (подмена сим-карты)
-- Скачивание без водяного знака
-- Google Auth Fix (thx. [revanced](https://github.com/ReVanced/revanced-patches/tree/main/patches/src/main/kotlin/app/revanced/patches/tiktok/misc/login/fixgoogle))
+[![Latest Release](https://img.shields.io/github/v/release/krolchonok/TiktokPatchXposed?label=download&style=for-the-badge)](https://github.com/krolchonok/TiktokPatchXposed/releases/latest)
+[![License](https://img.shields.io/github/license/krolchonok/TiktokPatchXposed?style=for-the-badge)](LICENSE)
 
-## Требования
+[🇷🇺 Читать на русском](README_RU.md)
 
-Проверено на com.zhiliaoapp.musically == 41.4.3
+</div>
 
-## Важно
+An Xposed module for TikTok that bypasses regional restrictions and removes download limitations.
 
-- Использование модулей Xposed может привести к блокировке аккаунта или нестабильной работе приложения.
-- Все изменения вы делаете на свой страх и риск.
+## Features
 
-## Скачать 
+- 🌍 **Region spoofing** — replaces SIM card data (country, operator) to unlock videos unavailable in your region
+- 💾 **Watermark-free downloads** — removes ACL download restrictions on videos
+- 🔑 **Google login fix** — fixes Google Auth / OneTap sign-in on devices where it is broken (inspired by [ReVanced](https://github.com/ReVanced/revanced-patches/tree/main/patches/src/main/kotlin/app/revanced/patches/tiktok/misc/login/fixgoogle))
 
-[Последняя версия](https://github.com/krolchonok/TiktokPatchXposed/releases/download/v2025.08.24-073559/app-release-universal.apk)
+## Requirements
 
-## Обратная связь
+- Rooted device with LSPosed / EdXposed framework installed
+- TikTok (`com.zhiliaoapp.musically`) or TikTok Lite (`com.ss.android.ugc.trill`)
+- Tested on `com.zhiliaoapp.musically` version **41.4.3**
 
-- Автор: [krolchonok](https://github.com/krolchonok)
-- Вопросы и предложения — через Issues на GitHub
+## Installation
+
+1. Download the APK from the [Releases](https://github.com/krolchonok/TiktokPatchXposed/releases/latest) page
+2. Install the APK on your device
+3. Open LSPosed and enable the module for the TikTok packages
+4. Force-stop and restart TikTok
+
+## Warning
+
+> [!WARNING]
+> Using Xposed modules may result in account bans or unstable app behaviour. All modifications are made at your own risk.
+
+## Feedback
+
+- Author: [@krolchonok](https://github.com/krolchonok)
+- Questions and suggestions — open an [Issue](https://github.com/krolchonok/TiktokPatchXposed/issues) on GitHub
