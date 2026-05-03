@@ -9,7 +9,7 @@
 
 <br/>
 
-[🇬🇧 English](README.md)
+[**English**](README.md) | **Русский**
 
 </div>
 

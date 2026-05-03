@@ -9,7 +9,7 @@
 
 <br/>
 
-[🇷🇺 Читать на русском](README_RU.md)
+**English** | [**Русский**](README_RU.md)
 
 </div>
 
