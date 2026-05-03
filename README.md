@@ -5,6 +5,12 @@
 [![Latest Release](https://img.shields.io/github/v/release/krolchonok/TiktokPatchXposed?label=download&style=for-the-badge)](https://github.com/krolchonok/TiktokPatchXposed/releases/latest)
 [![License](https://img.shields.io/github/license/krolchonok/TiktokPatchXposed?style=for-the-badge)](LICENSE)
 
+<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krolchonok&show_icons=true&theme=transparent&hide_border=true)
+
+<br/>
+
 [🇷🇺 Читать на русском](README_RU.md)
 
 </div>
@@ -34,6 +40,10 @@ An Xposed module for TikTok that bypasses regional restrictions and removes down
 
 > [!WARNING]
 > Using Xposed modules may result in account bans or unstable app behaviour. All modifications are made at your own risk.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=krolchonok/TiktokPatchXposed&type=Date)](https://star-history.com/#krolchonok/TiktokPatchXposed&Date)
 
 ## Feedback
 

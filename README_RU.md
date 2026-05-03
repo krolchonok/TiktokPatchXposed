@@ -5,6 +5,12 @@
 [![Последняя версия](https://img.shields.io/github/v/release/krolchonok/TiktokPatchXposed?label=скачать&style=for-the-badge)](https://github.com/krolchonok/TiktokPatchXposed/releases/latest)
 [![Лицензия](https://img.shields.io/github/license/krolchonok/TiktokPatchXposed?style=for-the-badge)](LICENSE)
 
+<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krolchonok&show_icons=true&theme=transparent&hide_border=true)
+
+<br/>
+
 [🇬🇧 English](README.md)
 
 </div>
@@ -34,6 +40,10 @@ TiktokPatchXposed — модуль Xposed для TikTok, обходящий ре
 
 > [!WARNING]
 > Использование модулей Xposed может привести к блокировке аккаунта или нестабильной работе приложения. Всё, что вы делаете, — на ваш страх и риск.
+
+## История звезд
+
+[![Star History Chart](https://api.star-history.com/svg?repos=krolchonok/TiktokPatchXposed&type=Date)](https://star-history.com/#krolchonok/TiktokPatchXposed&Date)
 
 ## Обратная связь
 
