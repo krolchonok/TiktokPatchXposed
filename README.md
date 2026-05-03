@@ -4,10 +4,8 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/krolchonok/TiktokPatchXposed?label=download&style=for-the-badge)](https://github.com/krolchonok/TiktokPatchXposed/releases/latest)
 [![License](https://img.shields.io/github/license/krolchonok/TiktokPatchXposed?style=for-the-badge)](LICENSE)
-
-<br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krolchonok&show_icons=true&theme=transparent&hide_border=true)
+[![Stars](https://img.shields.io/github/stars/krolchonok/TiktokPatchXposed?style=for-the-badge)](https://github.com/krolchonok/TiktokPatchXposed/stargazers)
+[![Forks](https://img.shields.io/github/forks/krolchonok/TiktokPatchXposed?style=for-the-badge)](https://github.com/krolchonok/TiktokPatchXposed/network/members)
 
 <br/>
 
