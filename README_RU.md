@@ -41,7 +41,11 @@ TiktokPatchXposed — модуль Xposed для TikTok, обходящий ре
 
 ## История звезд
 
-[![Star History Chart](https://api.star-history.com/svg?repos=krolchonok/TiktokPatchXposed&type=Date)](https://star-history.com/#krolchonok/TiktokPatchXposed&Date)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=krolchonok/TiktokPatchXposed&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=krolchonok/TiktokPatchXposed&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=krolchonok/TiktokPatchXposed&type=Date" />
+</picture>
 
 ## Обратная связь
 
