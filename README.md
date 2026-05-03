@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Latest Release](https://img.shields.io/github/v/release/krolchonok/TiktokPatchXposed?label=download&style=for-the-badge)](https://github.com/krolchonok/TiktokPatchXposed/releases/latest)
-[![License](https://img.shields.io/github/license/krolchonok/TiktokPatchXposed?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/github/license/krolchonok/TiktokPatchXposed?label=license&message=MIT&style=for-the-badge)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/krolchonok/TiktokPatchXposed?style=for-the-badge)](https://github.com/krolchonok/TiktokPatchXposed/stargazers)
 [![Forks](https://img.shields.io/github/forks/krolchonok/TiktokPatchXposed?style=for-the-badge)](https://github.com/krolchonok/TiktokPatchXposed/network/members)
 

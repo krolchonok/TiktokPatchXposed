@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Последняя версия](https://img.shields.io/github/v/release/krolchonok/TiktokPatchXposed?label=скачать&style=for-the-badge)](https://github.com/krolchonok/TiktokPatchXposed/releases/latest)
-[![Лицензия](https://img.shields.io/github/license/krolchonok/TiktokPatchXposed?style=for-the-badge)](LICENSE)
+[![Лицензия](https://img.shields.io/github/license/krolchonok/TiktokPatchXposed?label=лицензия&message=MIT&style=for-the-badge)](LICENSE)
 [![Звезды](https://img.shields.io/github/stars/krolchonok/TiktokPatchXposed?style=for-the-badge)](https://github.com/krolchonok/TiktokPatchXposed/stargazers)
 [![Форки](https://img.shields.io/github/forks/krolchonok/TiktokPatchXposed?style=for-the-badge)](https://github.com/krolchonok/TiktokPatchXposed/network/members)
 
